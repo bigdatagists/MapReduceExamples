@@ -3,6 +3,8 @@ D:\Code\big data workspace\patientanalytics\src\main\java\com\patientanalytics\d
 D:\Code\big data workspace\patientanalytics\src\main\java\com\patientanalytics\mapper\PatientMaritalStatusMapper.java
 D:\Code\big data workspace\patientanalytics\src\main\java\com\patientanalytics\reducer\PatientMaritalStatusReducer.java
 D:\Code\big data workspace\patientanalytics\src\main\java\com\patientanalytics\comparator\PatientMaritalStatusComparator.java
+D:\Code\big data workspace\patientanalytics\src\main\java\com\patientanalytics\mapper\PatientMaritalStatusCountMapper.java
+D:\Code\big data workspace\patientanalytics\src\main\java\com\patientanalytics\driver\PatientMaritalStatusCountDriver.java
 D:\Code\big data workspace\patientanalytics\src\main\java\com\patientanalytics\mapper\PatientGenderCountMapper.java
 D:\Code\big data workspace\patientanalytics\src\main\java\com\patientanalytics\comparator\PatientGenderComparator.java
 D:\Code\big data workspace\patientanalytics\src\main\java\com\patientanalytics\partitioner\PatientGenderPartitioner.java
