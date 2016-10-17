@@ -2,6 +2,8 @@ com\patientanalytics\reducer\PatientMaritalStatusReducer.class
 com\patientanalytics\mapper\PatientIdMapper.class
 com\patientanalytics\driver\PatientMaritalStatusCountDriver.class
 com\patientanalytics\driver\PatientAdmissionCacheDriver.class
+com\patientanalytics\udf\Shorten$MaritalStatus.class
+com\patientanalytics\serde\PatientSerde.class
 com\patientanalytics\mapper\PatientMaritalStatusMapper.class
 com\patientanalytics\driver\PatientMaritalStatusSortDriver.class
 com\patientanalytics\reducer\PatientAdmissionReducer.class
@@ -11,6 +13,7 @@ com\patientanalytics\mapper\AdmissionCacheMapper.class
 com\patientanalytics\mapper\AdmissionMapper.class
 com\patientanalytics\pair\TextPair.class
 com\patientanalytics\mapper\PatientMaritalStatusCountMapper.class
+com\patientanalytics\udf\Shorten.class
 com\patientanalytics\partitioner\PatientGenderPartitioner.class
 com\patientanalytics\driver\PatientAdmissionDriver.class
 com\patientanalytics\comparator\PatientMaritalStatusComparator.class
